@@ -6,6 +6,7 @@ export default function About() {
             <p>This weather app ...</p>
             <p>This is new paragraph added in VS Code ...</p>
             <p>This is another paragraph added in VS Code ...</p>
+            <p>And this is text also added in vs code.</p>
         </div>
     );
 }
